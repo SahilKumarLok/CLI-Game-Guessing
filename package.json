@@ -1,0 +1,27 @@
+{
+  "name": "cli-number-guessing-skl",
+  "version": "1.0.0",
+  "description": "A simple number guessing game ",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SahilKumarLok/CLI-Number-Guessing.git"
+  },
+  "author": "Sahil Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SahilKumarLok/CLI-Number-Guessing/issues"
+  },
+  "homepage": "https://github.com/SahilKumarLok/CLI-Number-Guessing#readme",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
